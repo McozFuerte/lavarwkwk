@@ -230,3 +230,4 @@ error code: 502
 {"error":"{\"Error_GUID\":\"9251377279668416747\",\"Error\":\"Failed all retries {GUID:9251377279668416747,error:No pairings available.,chain_id:ETH1}\"}"}
 {"error":"{\"Error_GUID\":\"4885713674488736296\",\"Error\":\"Failed all relay retries due to timeout consider adding 'lava-relay-timeout' header to extend the allowed timeout duration {GUID:4885713674488736296}\"}"}
 {"jsonrpc":"2.0","id":1,"result":"0x10a1e17e82"}
+{"jsonrpc":"2.0","id":1,"result":"0xb804e1745"}
