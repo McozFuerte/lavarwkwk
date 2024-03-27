@@ -210,3 +210,4 @@ error code: 502
 {"jsonrpc":"2.0","id":1,"result":"0x57feeac3d"}
 {"jsonrpc":"2.0","id":1,"result":"0x5bb0b3e72"}
 {"error":"{\"Error_GUID\":\"14996755434151806904\",\"Error\":\"Failed all retries {GUID:14996755434151806904,error:No pairings available.,chain_id:ETH1}\"}"}
+{"jsonrpc":"2.0","id":1,"result":"0x61339b189"}
